@@ -3,3 +3,5 @@ In 1847, the Hungarian physician Ignaz Semmelweis made a breakthough discovery: 
 
 **Guided Project**
 In this project, you will reanalyze the medical data Semmelweis collected!
+
+You can see the code in the notebook.ipynb
